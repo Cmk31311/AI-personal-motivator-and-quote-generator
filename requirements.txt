@@ -1,0 +1,5 @@
+flask
+flask-cors
+python-dotenv
+google-genai
+streamlit>=1.28.0
